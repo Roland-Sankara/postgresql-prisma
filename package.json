@@ -1,0 +1,25 @@
+{
+  "name": "postgresql-prisma",
+  "version": "1.0.0",
+  "description": "Getting started with the Prisma ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roland-Sankara/postgresql-prisma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roland-Sankara/postgresql-prisma/issues"
+  },
+  "homepage": "https://github.com/Roland-Sankara/postgresql-prisma#readme",
+  "devDependencies": {
+    "prisma": "^3.14.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.14.0"
+  }
+}
